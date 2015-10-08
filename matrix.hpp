@@ -50,7 +50,6 @@ public:
 
     unsigned int row = 0;
     unsigned int col = 0;
-
 private:
     std::vector<T> __baseMatrix;
 
